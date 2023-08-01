@@ -1,5 +1,3 @@
-Claro, aqui está a tradução do texto gerado sobre o Readme para o inglês:
-
 ## Readme
 
 This is a README file for a Java program that uses threads to count the number of words in a TXT file and manipulate threads that are responsible for reading files.
